@@ -184,17 +184,5 @@ Počas analýzy sú generované nasledujúce grafy (uložené ako PNG súbory):
 
 Podrobný popis metodiky, experimentov a interpretácie výsledkov je k dispozícii v texte bakalárskej práce.
 
----
 
-## Budúce rozšírenia
-
-Na základe navrhnutej architektúry a zistení práce možno projekt ďalej rozvíjať v týchto smeroch:
-
-- **Real-time skórovanie** — integrácia hybridného modelu do systému spracovania nárokov v reálnom čase.
-- **Dynamická nákladová matica** — implementácia nákladovo citlivého učenia zohľadňujúceho výšku fakturovanej sumy pri každej predikcii individuálne.
-- **Grafové neurónové siete** — detekcia kolúzneho správania medzi viacerými poskytovateľmi (napr. vzájomné odporúčania pacientov).
-- **Automatická aktualizácia modelu** — pravidelné dotrénúvanie na nových dátach s monitoringom konceptového driftu.
-- **Webový dashboard** — interaktívne rozhranie pre audítorov umožňujúce prehliadanie rizikových skóre a SHAP vysvetlení bez potreby technických znalostí.
-
----
 
