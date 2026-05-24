@@ -52,8 +52,8 @@ Repozitár obsahuje hlavný analytický kód s implementáciou celého pipeline 
 | Súbor | Popis |
 |---|---|
 | `[hlavný skript / notebook]` | Celý analytický pipeline — od prípravy dát po vizualizácie a výstupy |
-| `top20_provider_summary.xlsx` | Výstupná tabuľka — Top 20 najrizikovejších poskytovateľov (viď popis nižšie) |
-| `*.png` | Vizualizácie generované počas analýzy (viď sekciu Výsledky) |
+| `top20_provider_summary.xlsx` | Výstupná tabuľka — Top 20 najrizikovejších poskytovateľov |
+| `*.png` | Vizualizácie generované počas analýzy |
 
 ---
 
